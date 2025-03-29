@@ -36,12 +36,12 @@
       <li>Secure Login</li>
       </ul>
       <h2>Mobile Screen friendly website.</h2>
-<!--       <img src="img/responsive.gif"> -->
+      <img src="img/responsive.gif"> 
       <h2>chatbot support</h2>
-<!--       <img src="img/chatbotsupport.jpg"> -->
+       <img src="img/chatbotsupport.jpg"> 
       <h2>Secure Login</h2>
-<!--       <img src="img/hash-flow.png"> -->
-      <h2>How to run</h2>
+    <img src="img/hash-flow.png"> 
+      <h2>How to run</h2> 
       <ol>
        <li>Download the project zip file</li>
        <li> Extract the file and copy the folder</li>
